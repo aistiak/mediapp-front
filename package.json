@@ -1,0 +1,31 @@
+{
+  "name": "loazzne",
+  "version": "1.0.0",
+  "description": "Loazzne - Vue Nuxt Heating &amp; Air Conditioning Services Template",
+  "author": "Layerdrops",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --port 6740",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@bazzite/nuxt-optimized-images": "^0.3.0",
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.1",
+    "@nuxtjs/proxy": "^2.0.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "nuxt": "^2.0.0",
+    "nuxt-leaflet": "0.0.22",
+    "vue": "^2.6.11",
+    "vue-content-loading": "^1.6.0",
+    "vue-easy-slider": "^5.3.4",
+    "vue-notification": "^1.3.20",
+    "vuejs-datepicker": "^1.6.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
